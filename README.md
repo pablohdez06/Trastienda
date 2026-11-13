@@ -56,23 +56,9 @@ Para visualizar el proyecto localmente:
 
 ---
 
-## 📋 Estado del Proyecto y Próximos Pasos
-
-- [x] Estructura HTML semántica básica de la página principal (`index.html`).
-- [x] Plantilla base para el carrito (`carrito.html`).
-- [ ] Maquetación y estilos CSS en `css/styles.css` (diseño *Mobile First* y *Desktop*).
-- [ ] Incorporación de portadas de libros en la carpeta `img/`.
-- [ ] Maquetación completa de la vista del carrito (`carrito.html`).
-- [ ] Desarrollo de las vistas secundarias:
-  - `detalle.html` (Ficha del libro).
-  - `explorar.html` (Buscador y filtros por género).
-  - `perfil.html` (Área de usuario).
-
----
-
 ## 👤 Autor
 
 - **Pablo Hernández Sánchez**
-- **Curso**: 2º DAW (Desarrollo de Aplicaciones Web)
+- **Curso**: 2º DAW
 - **Módulo**: Diseño de Interfaces Web (DIWEB) - Unidad Didáctica 4
 
